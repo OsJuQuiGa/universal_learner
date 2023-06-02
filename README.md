@@ -5,4 +5,6 @@ expectations with autoencoders and a reward function that stores experience-rewa
 pairs.
 https://www.scribd.com/document/650244771/Universal-Learner
 
+![archlayout](https://github.com/OsJuQuiGa/universal_learner/blob/main/img/archlayout.png)
+
 Unfinished project
