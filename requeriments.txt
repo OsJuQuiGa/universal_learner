@@ -1,0 +1,10 @@
+pyautogui
+mss
+pillow
+scipy
+sounddevice
+deepdiff
+keyboard
+mouse
+torchtext
+matplotlib
